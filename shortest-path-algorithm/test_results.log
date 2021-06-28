@@ -1,0 +1,2158 @@
+2020-08-30 10:39:24,370 INFO     
+
+2020-08-30 10:39:24,370 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 11:50:42,011 INFO     
+
+2020-08-30 11:50:42,012 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 11:50:48,419 INFO     
+
+2020-08-30 11:50:48,419 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 11:53:36,092 INFO     
+
+2020-08-30 11:53:36,092 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 11:56:42,852 INFO     
+
+2020-08-30 11:56:42,852 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 11:57:02,586 INFO     
+
+2020-08-30 11:57:02,587 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 11:58:21,759 INFO     
+
+2020-08-30 11:58:21,760 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 11:59:18,953 INFO     
+
+2020-08-30 11:59:18,953 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 11:59:32,274 INFO     
+
+2020-08-30 11:59:32,274 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:00:50,141 INFO     
+
+2020-08-30 12:00:50,141 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:02:43,292 INFO     
+
+2020-08-30 12:02:43,293 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:05:12,540 INFO     
+
+2020-08-30 12:05:12,540 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:07:42,157 INFO     
+
+2020-08-30 12:07:42,157 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:09:15,410 INFO     
+
+2020-08-30 12:09:15,410 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:09:58,242 INFO     
+
+2020-08-30 12:09:58,242 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:09:58,509 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 12:09:58,509 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 12:09:58,509 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 12:10:02,550 INFO     
+
+2020-08-30 12:10:02,550 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:10:02,811 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 12:10:02,811 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 12:10:02,811 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 12:10:30,355 INFO     
+
+2020-08-30 12:10:30,355 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:10:30,614 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 12:10:30,614 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 12:10:30,614 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 12:20:00,399 INFO     
+
+2020-08-30 12:20:00,399 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:23:41,413 INFO     
+
+2020-08-30 12:23:41,413 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:26:20,346 INFO     
+
+2020-08-30 12:26:20,347 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:26:20,611 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 12:26:20,611 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 12:26:20,611 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 12:28:55,991 INFO     
+
+2020-08-30 12:28:55,991 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:28:55,991 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 12:28:56,262 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 12:28:56,263 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 12:28:56,263 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 12:29:12,880 INFO     
+
+2020-08-30 12:29:12,880 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:30:07,759 INFO     
+
+2020-08-30 12:30:07,760 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:30:07,760 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 12:30:08,024 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 12:30:08,024 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 12:30:08,024 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 12:33:01,797 INFO     
+
+2020-08-30 12:33:01,797 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:33:01,797 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 12:33:01,797 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:33:01,889 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:33:02,001 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:33:02,084 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 12:33:02,085 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 12:33:02,085 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 12:33:23,167 INFO     
+
+2020-08-30 12:33:23,167 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:33:23,168 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 12:33:23,168 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:33:23,260 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:33:23,350 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:33:23,434 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 12:33:23,434 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 12:33:23,434 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 12:34:34,136 INFO     
+
+2020-08-30 12:34:34,136 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:34:34,136 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 12:34:34,136 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:35:29,523 INFO     
+
+2020-08-30 12:35:29,523 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:35:29,523 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 12:35:29,523 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:35:29,633 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:35:29,744 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:35:29,847 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 12:35:29,847 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 12:35:29,847 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 12:45:43,892 INFO     
+
+2020-08-30 12:45:43,893 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:48:18,675 INFO     
+
+2020-08-30 12:48:18,675 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:48:34,088 INFO     
+
+2020-08-30 12:48:34,088 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:48:34,088 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 12:48:34,089 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:48:34,187 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:48:34,275 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:48:34,360 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 12:48:34,360 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 12:48:34,360 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 12:53:32,558 INFO     
+
+2020-08-30 12:53:32,558 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:53:32,558 INFO     Loading dataset from : %{DATASET_PATH}
+2020-08-30 12:53:32,558 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:53:32,654 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:53:32,746 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:53:32,832 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 12:53:32,832 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 12:53:32,832 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 12:56:41,866 INFO     
+
+2020-08-30 12:56:41,866 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:59:19,600 INFO     
+
+2020-08-30 12:59:19,600 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 12:59:19,600 INFO     Loading dataset from : {{DATASET_PATH}}
+2020-08-30 12:59:19,600 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:59:19,699 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:59:19,787 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 12:59:19,871 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 12:59:19,872 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 12:59:19,872 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 13:02:25,478 INFO     
+
+2020-08-30 13:02:25,478 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 13:02:25,478 INFO     Loading_dataset_from : {DATASET_PATH}
+2020-08-30 13:02:25,478 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 13:02:25,574 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 13:02:25,665 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 13:02:25,751 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 13:02:25,751 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 13:02:25,751 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 13:03:51,781 INFO     
+
+2020-08-30 13:03:51,781 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 13:05:15,845 INFO     
+
+2020-08-30 13:05:15,845 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 13:05:49,661 INFO     
+
+2020-08-30 13:05:49,661 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 13:05:49,661 INFO     message={DATASET_PATH}
+2020-08-30 13:05:49,661 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 13:05:49,759 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 13:05:49,847 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 13:05:49,932 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 13:05:49,932 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 13:05:49,932 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 13:07:09,565 INFO     
+
+2020-08-30 13:07:09,565 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 13:19:59,116 INFO     
+
+2020-08-30 13:19:59,116 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 13:21:12,312 INFO     
+
+2020-08-30 13:21:12,312 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 13:21:12,312 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 13:21:12,312 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 13:21:12,406 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 13:21:12,406 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 13:21:12,493 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 13:21:12,493 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 13:21:12,577 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 13:21:12,577 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 13:21:12,577 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 13:21:12,577 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 13:25:38,019 INFO     
+
+2020-08-30 13:25:38,019 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 13:25:38,019 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 13:25:38,020 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 13:25:38,118 WARNING  The expected label should be `int`, instead received {type(actual_label).__name__}
+2020-08-30 14:10:45,300 INFO     
+
+2020-08-30 14:10:45,300 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 14:10:45,300 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 14:10:45,300 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 14:10:45,395 WARNING  The expected label should be `int`, instead received {type(actual_label).__name__}
+2020-08-30 14:11:51,199 INFO     
+
+2020-08-30 14:11:51,199 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 14:11:51,199 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 14:11:51,199 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 14:11:51,292 WARNING  The expected label should be `int`, instead received {type(actual_label).__name__}
+2020-08-30 14:12:21,132 INFO     
+
+2020-08-30 14:12:21,132 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 14:12:21,132 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 14:12:21,132 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 14:12:43,704 INFO     
+
+2020-08-30 14:12:43,704 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 14:12:43,704 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 14:12:43,704 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 14:12:43,800 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 14:12:43,800 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 14:12:43,892 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 14:12:43,892 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 14:12:43,976 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 14:12:43,976 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 14:12:43,976 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 14:12:43,977 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 14:18:50,121 INFO     
+
+2020-08-30 14:18:50,121 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 14:18:50,121 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 14:18:50,121 INFO     sample #{sample_index}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 14:18:50,213 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 14:18:50,213 INFO     sample #{sample_index}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 14:18:50,301 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 14:18:50,301 INFO     sample #{sample_index}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 14:18:50,387 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 14:18:50,387 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 14:18:50,387 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 14:18:50,387 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 15:22:13,591 INFO     
+
+2020-08-30 15:22:13,591 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:22:13,591 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 15:22:13,592 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 15:25:10,292 INFO     
+
+2020-08-30 15:25:10,292 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:25:10,292 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 15:25:10,292 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 15:26:48,444 INFO     
+
+2020-08-30 15:26:48,444 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:26:48,444 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 15:26:48,444 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 15:27:32,480 INFO     
+
+2020-08-30 15:27:32,481 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:27:32,481 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 15:27:32,481 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 15:30:56,742 INFO     
+
+2020-08-30 15:30:56,742 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:30:56,742 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 15:30:56,742 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 15:33:23,261 INFO     
+
+2020-08-30 15:33:23,262 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:33:23,262 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 15:33:23,262 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 15:33:49,411 INFO     
+
+2020-08-30 15:33:49,411 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:33:49,412 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 15:33:49,412 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 15:34:10,528 INFO     
+
+2020-08-30 15:34:10,528 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:34:10,528 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 15:34:10,528 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 15:34:33,156 INFO     
+
+2020-08-30 15:34:33,156 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:34:33,156 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 15:34:33,156 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 15:36:12,891 INFO     
+
+2020-08-30 15:36:12,891 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:36:12,892 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 15:36:12,892 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 15:36:27,806 INFO     
+
+2020-08-30 15:36:27,806 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:36:27,806 INFO     Loading dataset from : {DATASET_PATH}
+2020-08-30 15:36:27,806 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-30 15:39:13,360 INFO     
+
+2020-08-30 15:39:13,361 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:40:38,102 INFO     
+
+2020-08-30 15:40:38,102 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:40:38,102 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 15:40:38,102 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:43:31,508 INFO     
+
+2020-08-30 15:43:31,508 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:43:31,508 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 15:43:31,508 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:43:31,508 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-30 15:46:02,593 INFO     
+
+2020-08-30 15:46:02,593 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:46:02,593 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 15:46:02,593 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:46:02,593 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-30 15:46:35,884 INFO     
+
+2020-08-30 15:46:35,885 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:46:35,885 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 15:46:35,885 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:46:35,885 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:46:35,885 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:46:35,885 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:46:35,885 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:46:35,885 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:46:35,885 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 15:46:35,885 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 15:46:35,885 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 15:47:35,407 INFO     
+
+2020-08-30 15:47:35,407 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:47:35,407 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 15:47:35,407 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:47:35,407 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:47:35,407 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:47:35,407 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:47:35,408 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:47:35,408 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:47:35,408 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 15:47:35,408 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 15:47:35,408 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 15:47:55,008 INFO     
+
+2020-08-30 15:47:55,008 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:47:55,008 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 15:47:55,008 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:47:55,008 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:47:55,008 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:47:55,008 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:47:55,008 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:47:55,009 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:47:55,009 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 15:47:55,009 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 15:47:55,009 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 15:53:41,154 INFO     
+
+2020-08-30 15:53:41,154 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:53:41,154 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 15:53:41,154 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:53:41,154 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:53:41,155 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:53:41,155 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:53:41,155 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:53:41,155 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:53:41,155 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 15:53:41,155 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 15:53:41,155 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 15:54:23,236 INFO     
+
+2020-08-30 15:54:23,236 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:54:23,236 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 15:54:23,236 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:54:23,237 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:54:23,237 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:54:23,237 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:54:23,237 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:54:23,237 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:54:23,237 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 15:54:23,237 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 15:54:23,237 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 15:55:37,123 INFO     
+
+2020-08-30 15:55:37,123 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 15:55:37,123 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 15:55:37,123 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:55:37,123 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:55:37,123 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:55:37,124 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:55:37,124 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 15:55:37,124 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 15:55:37,124 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 15:55:37,124 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 15:55:37,124 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 16:18:16,195 INFO     
+
+2020-08-30 16:18:16,195 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:18:16,195 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:18:16,195 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:18:16,195 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:18:16,195 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:18:16,195 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:18:16,196 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:18:16,196 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:18:16,196 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 16:18:16,196 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 16:18:16,196 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 16:19:30,787 INFO     
+
+2020-08-30 16:19:30,787 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:19:30,787 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:19:30,787 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:19:30,787 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:19:30,788 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:19:30,788 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:19:30,788 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:19:30,788 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:19:30,788 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 16:19:30,788 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 16:19:30,788 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 16:20:08,101 INFO     
+
+2020-08-30 16:20:08,102 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:20:08,102 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:20:08,102 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:20:08,102 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:20:08,102 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:20:08,102 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:20:08,102 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:20:08,103 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:20:08,103 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 16:20:08,103 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 16:20:08,103 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 16:20:32,100 INFO     
+
+2020-08-30 16:20:32,100 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:20:32,101 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:20:32,101 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:20:32,101 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:20:32,101 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:20:32,101 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:20:32,101 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:20:32,101 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:20:32,101 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 16:20:32,101 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 16:20:32,102 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 16:21:28,668 INFO     
+
+2020-08-30 16:21:28,668 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:21:28,668 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:21:28,668 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:21:28,668 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:21:28,668 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:21:28,669 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:21:28,669 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:21:28,669 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:21:28,669 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 16:21:28,669 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 16:21:28,669 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 16:23:01,494 INFO     
+
+2020-08-30 16:23:01,494 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:23:01,494 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:23:01,494 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:23:01,494 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:23:01,494 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:23:01,494 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:23:01,494 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:23:01,494 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:23:01,494 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 16:23:01,495 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 16:23:01,495 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 16:23:17,679 INFO     
+
+2020-08-30 16:23:17,679 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:23:17,679 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:23:17,679 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:23:17,679 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:23:17,679 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:23:17,679 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:23:17,679 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:23:17,680 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:23:17,680 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 16:23:17,680 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 16:23:17,680 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 16:23:52,036 INFO     
+
+2020-08-30 16:23:52,036 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:23:52,036 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:23:52,036 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:23:52,037 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:23:52,037 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:23:52,037 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:23:52,037 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:23:52,037 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:23:52,037 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 16:23:52,037 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 16:23:52,037 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 16:24:42,745 INFO     
+
+2020-08-30 16:24:42,745 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:24:42,745 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:24:42,745 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:24:42,745 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:24:42,745 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:24:42,745 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:24:42,746 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:24:42,746 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:24:42,746 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 16:24:42,746 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 16:24:42,746 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 16:25:06,072 INFO     
+
+2020-08-30 16:25:06,072 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:25:06,072 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:25:06,072 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:25:06,072 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:25:06,073 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:25:06,073 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:25:06,073 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:25:06,073 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:25:06,073 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 16:25:06,073 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 16:25:06,073 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 16:25:23,548 INFO     
+
+2020-08-30 16:25:23,548 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:25:23,548 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:25:23,548 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:25:23,548 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:25:23,548 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:25:23,548 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:25:23,548 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:25:23,548 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:25:23,548 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 16:25:23,549 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 16:25:23,549 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 16:26:55,223 INFO     
+
+2020-08-30 16:26:55,223 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:26:55,223 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:26:55,223 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:26:55,223 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:26:55,223 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:26:55,223 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:26:55,223 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:26:55,224 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:26:55,224 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 16:26:55,224 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 16:26:55,224 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 16:27:45,110 INFO     
+
+2020-08-30 16:27:45,110 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:27:45,110 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:27:45,110 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:27:45,110 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-30 16:29:31,255 INFO     
+
+2020-08-30 16:29:31,256 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:29:31,256 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:29:31,256 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:29:31,256 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:29:31,256 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:29:31,256 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:29:31,256 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:29:31,257 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:29:31,257 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 16:29:31,257 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 16:29:31,257 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 16:31:16,830 INFO     
+
+2020-08-30 16:31:16,830 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:31:16,830 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:31:16,830 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:31:16,830 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:31:16,830 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:31:16,830 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:31:16,830 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:31:16,830 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:31:16,830 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 16:31:16,830 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 16:31:16,831 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 16:32:44,837 INFO     
+
+2020-08-30 16:32:44,837 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:32:44,837 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:32:44,837 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:32:44,837 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:32:44,837 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:32:44,837 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:32:44,837 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:32:44,837 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:32:44,837 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 16:32:44,838 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 16:32:44,838 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-30 16:34:34,994 INFO     
+
+2020-08-30 16:34:34,994 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-30 16:34:34,994 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-30 16:34:34,994 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:34:34,995 INFO     expected={expected_label}, actual={actual_label}
+2020-08-30 16:34:34,995 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:34:34,995 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:34:34,995 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-30 16:34:34,995 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-30 16:34:34,995 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-30 16:34:34,995 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-30 16:34:34,995 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 05:35:52,161 INFO     
+
+2020-08-31 05:35:52,170 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 05:35:52,170 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 05:35:52,170 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 05:39:05,025 INFO     
+
+2020-08-31 05:39:05,025 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 05:39:05,025 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 05:39:05,025 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 05:40:23,160 INFO     
+
+2020-08-31 05:40:23,160 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 05:40:23,161 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 05:40:23,161 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 05:44:00,040 INFO     
+
+2020-08-31 05:44:00,040 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 05:44:00,040 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 05:44:00,040 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 11:51:26,482 INFO     
+
+2020-08-31 11:51:26,482 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 11:51:26,482 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 11:51:26,482 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 11:51:26,482 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 11:51:26,482 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 11:51:26,482 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 11:51:26,483 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 11:51:26,483 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 11:51:26,483 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 11:51:26,483 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 11:51:26,483 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 11:59:03,192 INFO     
+
+2020-08-31 11:59:03,192 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 11:59:03,192 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 11:59:03,192 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 11:59:03,192 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 11:59:03,192 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 11:59:03,192 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 11:59:03,192 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 11:59:03,192 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 11:59:03,193 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 11:59:03,193 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 11:59:03,193 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 16:07:38,293 INFO     
+
+2020-08-31 16:07:38,293 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:07:38,293 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:07:38,293 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:07:38,425 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:10:07,280 INFO     
+
+2020-08-31 16:10:07,280 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:10:07,280 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:10:07,280 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:12:27,646 INFO     
+
+2020-08-31 16:12:27,646 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:12:27,646 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:12:27,646 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:13:27,038 INFO     
+
+2020-08-31 16:13:27,039 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:13:27,039 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:13:27,039 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:13:57,498 INFO     
+
+2020-08-31 16:13:57,498 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:13:57,499 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:13:57,499 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:14:54,743 INFO     
+
+2020-08-31 16:14:54,743 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:14:54,743 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:14:54,743 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:14:54,869 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:16:45,461 INFO     
+
+2020-08-31 16:16:45,461 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:16:45,461 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:16:45,462 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:16:45,582 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:18:58,845 INFO     
+
+2020-08-31 16:18:58,845 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:18:58,845 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:18:58,845 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:18:58,971 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:19:59,824 INFO     
+
+2020-08-31 16:19:59,825 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:19:59,825 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:19:59,825 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:19:59,958 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:19:59,958 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:20:00,089 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:21:40,866 INFO     
+
+2020-08-31 16:21:40,867 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:21:40,867 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:21:40,867 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:21:40,993 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:21:40,993 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:21:41,127 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:21:41,127 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:21:41,127 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:23:25,720 INFO     
+
+2020-08-31 16:23:25,721 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:23:25,721 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:23:25,721 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:23:25,851 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:23:25,852 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:23:25,979 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:25:40,856 INFO     
+
+2020-08-31 16:25:40,857 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:25:40,857 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:25:40,857 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:25:40,982 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:25:40,982 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:25:41,108 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:28:06,738 INFO     
+
+2020-08-31 16:28:06,738 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:28:06,738 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:28:06,738 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:28:06,856 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:28:06,856 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:28:06,977 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:29:37,361 INFO     
+
+2020-08-31 16:29:37,362 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:29:37,362 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:29:37,362 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:29:37,485 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:29:37,485 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:29:37,605 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:30:08,780 INFO     
+
+2020-08-31 16:30:08,781 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:30:08,781 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:30:08,781 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:30:08,896 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:30:08,896 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:30:09,013 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:31:41,227 INFO     
+
+2020-08-31 16:31:41,227 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:31:41,227 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:31:41,227 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:31:41,346 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:31:41,346 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:31:41,461 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:31:55,453 INFO     
+
+2020-08-31 16:31:55,453 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:31:55,453 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:31:55,453 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:31:55,581 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:31:55,581 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:31:55,707 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:34:28,509 INFO     
+
+2020-08-31 16:34:28,509 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:34:28,509 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:34:28,509 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:34:28,634 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:34:28,635 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:34:28,753 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:35:21,343 INFO     
+
+2020-08-31 16:35:21,343 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:35:21,343 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:35:21,343 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:35:21,462 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:35:21,462 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:35:21,581 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:36:46,425 INFO     
+
+2020-08-31 16:36:46,425 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:36:46,426 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:36:46,426 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:36:46,546 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:36:46,546 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:36:46,663 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:38:35,047 INFO     
+
+2020-08-31 16:38:35,047 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:38:35,047 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:38:35,047 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:38:35,162 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:38:35,162 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:38:35,162 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:38:35,279 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:38:35,279 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:38:35,279 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:39:06,470 INFO     
+
+2020-08-31 16:39:06,470 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:39:06,470 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:39:06,470 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:39:06,587 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:39:06,587 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:39:06,587 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:39:06,699 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:39:06,700 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:39:06,700 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:39:24,532 INFO     
+
+2020-08-31 16:39:24,533 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:39:24,533 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:39:24,533 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:39:24,652 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:39:24,652 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:39:24,652 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:39:24,771 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:39:24,771 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:39:24,772 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:39:39,551 INFO     
+
+2020-08-31 16:39:39,552 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 16:39:39,552 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 16:39:39,552 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:39:39,669 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:39:39,670 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:39:39,670 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:39:39,786 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 16:39:39,786 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:39:39,786 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 16:39:39,896 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 16:39:39,896 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 16:39:39,896 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 16:39:39,896 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 17:22:55,964 INFO     
+
+2020-08-31 17:22:55,964 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 17:22:55,964 INFO     Loading dataset from : {(DATASET_PATH)}
+2020-08-31 17:22:55,964 WARNING  dataset  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 17:22:55,964 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 17:22:56,076 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 17:22:56,077 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:22:56,077 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 17:22:56,192 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 17:22:56,192 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:22:56,192 INFO     sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 17:22:56,302 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:22:56,302 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 17:22:56,303 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 17:22:56,303 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 17:24:49,560 INFO     
+
+2020-08-31 17:24:49,560 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 17:24:49,561 INFO     Loading dataset from : 
+2020-08-31 17:24:49,561 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 17:24:49,561 WARNING  sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 17:24:49,688 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 17:24:49,688 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:24:49,688 WARNING  sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 17:24:49,804 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 17:24:49,804 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:24:49,804 WARNING  sample #{(sample_index)}: node_a={(node_a)}, node_b={(node_b)}
+2020-08-31 17:24:49,914 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:24:49,914 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 17:24:49,914 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 17:24:49,914 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 17:27:24,172 INFO     
+
+2020-08-31 17:27:24,172 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 17:27:24,172 INFO     Loading dataset from : 
+2020-08-31 17:27:24,172 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 17:27:24,295 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 17:27:24,295 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:27:24,415 WARNING  The expected label should be `int`, instead received {(type(actual_label)).__name__}
+2020-08-31 17:27:24,415 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:27:24,532 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:27:24,532 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 17:27:24,532 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 17:27:24,532 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 17:29:28,069 INFO     
+
+2020-08-31 17:29:28,069 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 17:29:28,069 INFO     Loading dataset from : 
+2020-08-31 17:29:28,069 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 17:29:28,069 INFO     sample #{sample_index}: node_a={0}, node_b={node_b}
+2020-08-31 17:29:28,188 WARNING  The expected label should be `int`, instead received {type(actual_label).__name__}
+2020-08-31 17:29:28,188 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:29:28,189 INFO     sample #{sample_index}: node_a={128}, node_b={node_b}
+2020-08-31 17:29:28,306 WARNING  The expected label should be `int`, instead received {type(actual_label).__name__}
+2020-08-31 17:29:28,306 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:29:28,306 INFO     sample #{sample_index}: node_a={76}, node_b={node_b}
+2020-08-31 17:29:28,430 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:29:28,430 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 17:29:28,430 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 17:29:28,430 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 17:31:40,127 INFO     
+
+2020-08-31 17:31:40,127 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 17:31:40,128 INFO     Loading dataset from : 
+2020-08-31 17:31:40,128 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 17:31:40,128 INFO     sample #{sample_index}: node_a={0}, node_b={node_b}
+2020-08-31 17:31:52,928 INFO     
+
+2020-08-31 17:31:52,928 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 17:31:52,928 INFO     Loading dataset from : 
+2020-08-31 17:31:52,928 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 17:31:52,928 INFO     sample #{sample_index}: node_a={0}, node_b={node_b}
+2020-08-31 17:31:53,041 WARNING  The expected label should be `int`, instead received {type(actual_label).__name__} False
+2020-08-31 17:31:53,041 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:31:53,041 INFO     sample #{sample_index}: node_a={128}, node_b={node_b}
+2020-08-31 17:31:53,153 WARNING  The expected label should be `int`, instead received {type(actual_label).__name__} False
+2020-08-31 17:31:53,154 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:31:53,154 INFO     sample #{sample_index}: node_a={76}, node_b={node_b}
+2020-08-31 17:31:53,264 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:31:53,264 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 17:31:53,264 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 17:31:53,264 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 17:34:59,195 INFO     
+
+2020-08-31 17:34:59,196 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 17:34:59,196 INFO     Loading dataset from : 
+2020-08-31 17:34:59,196 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 17:34:59,196 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-31 17:34:59,196 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 17:34:59,317 WARNING  The expected label should be `int`, instead received {type(actual_label).__name__}
+2020-08-31 17:34:59,317 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:34:59,317 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-31 17:34:59,317 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 17:34:59,431 WARNING  The expected label should be `int`, instead received {type(actual_label).__name__}
+2020-08-31 17:34:59,431 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:34:59,431 INFO     sample #{sample_index}: node_a={node_a}, node_b={node_b}
+2020-08-31 17:34:59,431 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 17:34:59,543 WARNING  expected={expected_label}, actual={actual_label}
+2020-08-31 17:34:59,543 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 17:34:59,543 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 17:34:59,544 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 17:41:11,871 INFO     
+
+2020-08-31 17:41:11,871 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 17:41:11,871 INFO     Loading dataset from : 
+2020-08-31 17:41:11,871 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 17:41:11,871 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 17:41:11,991 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 17:41:11,991 WARNING  expected=5, actual=0
+2020-08-31 17:41:11,991 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 17:41:12,104 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 17:41:12,104 WARNING  expected=113, actual=0
+2020-08-31 17:41:12,104 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 17:41:12,214 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 17:41:12,214 WARNING  expected=918, actual=76
+2020-08-31 17:41:12,214 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 17:41:12,214 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 17:41:12,214 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 17:44:55,324 INFO     
+
+2020-08-31 17:44:55,324 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 17:44:55,324 INFO     Loading dataset from : 
+2020-08-31 17:44:55,324 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 17:44:55,324 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 17:45:12,172 INFO     
+
+2020-08-31 17:45:12,172 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 17:45:12,172 INFO     Loading dataset from : 
+2020-08-31 17:45:12,172 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 17:45:12,172 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 17:45:12,293 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 17:45:12,294 WARNING  expected=5, actual=0
+2020-08-31 17:45:12,294 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 17:45:12,409 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 17:45:12,410 WARNING  expected=113, actual=0
+2020-08-31 17:45:12,410 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 17:45:12,520 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 17:45:12,520 WARNING  expected=918, actual=76
+2020-08-31 17:45:12,520 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 17:45:12,520 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 17:45:12,521 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 17:45:54,352 INFO     
+
+2020-08-31 17:45:54,352 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 17:45:54,352 INFO     Loading dataset from : 
+2020-08-31 17:45:54,352 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 17:45:54,352 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 17:45:54,470 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 17:45:54,470 WARNING  expected=5, actual=2
+2020-08-31 17:45:54,470 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 17:45:54,588 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 17:45:54,589 WARNING  expected=113, actual=113
+2020-08-31 17:45:54,589 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 17:45:54,705 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 17:45:54,705 WARNING  expected=918, actual=76
+2020-08-31 17:45:54,705 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 17:45:54,705 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 17:45:54,705 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 17:49:24,361 INFO     
+
+2020-08-31 17:49:24,362 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 17:49:24,362 INFO     Loading dataset from : 
+2020-08-31 17:49:24,362 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 17:49:24,362 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:01:05,205 INFO     
+
+2020-08-31 18:01:05,205 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:01:05,205 INFO     Loading dataset from : 
+2020-08-31 18:01:05,206 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:01:05,206 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:01:05,878 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:01:05,878 WARNING  expected=5, actual=2
+2020-08-31 18:01:05,878 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:01:06,523 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 18:01:06,524 WARNING  expected=113, actual=113
+2020-08-31 18:01:06,524 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 18:01:07,180 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:01:07,180 WARNING  expected=918, actual=76
+2020-08-31 18:01:07,180 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 18:01:07,180 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 18:01:07,180 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 18:01:27,430 INFO     
+
+2020-08-31 18:01:27,431 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:01:27,431 INFO     Loading dataset from : 
+2020-08-31 18:01:27,431 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:01:27,431 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:01:28,094 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:01:28,094 WARNING  expected=5, actual=2
+2020-08-31 18:01:28,094 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:01:28,751 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 18:01:28,751 WARNING  expected=113, actual=113
+2020-08-31 18:01:28,751 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 18:01:29,402 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:01:29,403 WARNING  expected=918, actual=76
+2020-08-31 18:01:29,403 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 18:01:29,403 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 18:01:29,403 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 18:04:42,731 INFO     
+
+2020-08-31 18:04:42,731 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:04:42,731 INFO     Loading dataset from : 
+2020-08-31 18:04:42,731 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:04:42,731 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:04:43,395 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:04:43,395 WARNING  expected=5, actual=2
+2020-08-31 18:04:43,395 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:04:44,054 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 18:04:44,054 WARNING  expected=113, actual=113
+2020-08-31 18:04:44,054 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 18:04:44,696 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:04:44,696 WARNING  expected=918, actual=76
+2020-08-31 18:04:44,696 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 18:04:44,696 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 18:04:44,696 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 18:06:56,078 INFO     
+
+2020-08-31 18:06:56,078 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:06:56,079 INFO     Loading dataset from : 
+2020-08-31 18:06:56,079 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:06:56,079 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:06:56,749 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:06:56,749 WARNING  expected=5, actual=2
+2020-08-31 18:06:56,749 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:06:57,406 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 18:06:57,406 WARNING  expected=113, actual=113
+2020-08-31 18:06:57,406 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 18:06:58,056 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:06:58,056 WARNING  expected=918, actual=76
+2020-08-31 18:06:58,056 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 18:06:58,056 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 18:06:58,056 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 18:07:38,265 INFO     
+
+2020-08-31 18:07:38,265 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:07:38,265 INFO     Loading dataset from : 
+2020-08-31 18:07:38,265 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:07:38,265 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:07:38,946 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:07:38,946 WARNING  expected=5, actual=2
+2020-08-31 18:07:38,946 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:07:39,597 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 18:07:39,597 WARNING  expected=113, actual=113
+2020-08-31 18:07:39,597 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 18:07:40,248 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:07:40,249 WARNING  expected=918, actual=76
+2020-08-31 18:07:40,249 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 18:07:40,249 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 18:07:40,249 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 18:08:50,822 INFO     
+
+2020-08-31 18:08:50,822 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:08:50,822 INFO     Loading dataset from : 
+2020-08-31 18:08:50,822 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:08:50,822 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:08:51,480 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:08:51,480 WARNING  expected=5, actual=2
+2020-08-31 18:08:51,481 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:08:52,147 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 18:08:52,147 WARNING  expected=113, actual=113
+2020-08-31 18:08:52,147 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 18:08:52,798 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:08:52,798 WARNING  expected=918, actual=76
+2020-08-31 18:08:52,798 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 18:08:52,798 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 18:08:52,798 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 18:10:24,317 INFO     
+
+2020-08-31 18:10:24,317 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:10:24,317 INFO     Loading dataset from : 
+2020-08-31 18:10:24,317 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:10:24,317 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:10:24,990 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:10:24,990 WARNING  expected=5, actual=2
+2020-08-31 18:10:24,991 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:10:25,641 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 18:10:25,642 WARNING  expected=113, actual=113
+2020-08-31 18:10:25,642 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 18:10:26,294 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:10:26,294 WARNING  expected=918, actual=76
+2020-08-31 18:10:26,294 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 18:10:26,294 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 18:10:26,294 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 18:11:25,615 INFO     
+
+2020-08-31 18:11:25,615 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:11:25,615 INFO     Loading dataset from : 
+2020-08-31 18:11:25,616 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:11:25,616 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:11:26,283 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:11:26,283 WARNING  expected=5, actual=2
+2020-08-31 18:11:26,283 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:11:26,943 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 18:11:26,943 WARNING  expected=113, actual=113
+2020-08-31 18:11:26,943 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 18:11:27,609 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:11:27,609 WARNING  expected=918, actual=76
+2020-08-31 18:11:27,609 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 18:11:27,610 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 18:11:27,610 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 18:11:56,027 INFO     
+
+2020-08-31 18:11:56,027 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:11:56,027 INFO     Loading dataset from : 
+2020-08-31 18:11:56,027 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:11:56,027 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:11:56,693 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:11:56,694 WARNING  expected=5, actual=2
+2020-08-31 18:11:56,694 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:11:57,351 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 18:11:57,351 WARNING  expected=113, actual=113
+2020-08-31 18:11:57,351 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 18:11:58,002 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:11:58,002 WARNING  expected=918, actual=76
+2020-08-31 18:11:58,002 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 18:11:58,002 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 18:11:58,002 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 18:14:53,365 INFO     
+
+2020-08-31 18:14:53,365 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:14:53,365 INFO     Loading dataset from : 
+2020-08-31 18:14:53,366 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:14:53,366 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:16:21,777 INFO     
+
+2020-08-31 18:16:21,777 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:16:21,777 INFO     Loading dataset from : 
+2020-08-31 18:16:21,777 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:16:21,778 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:16:55,667 INFO     
+
+2020-08-31 18:16:55,668 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:16:55,668 INFO     Loading dataset from : 
+2020-08-31 18:16:55,668 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:16:55,668 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:18:05,580 INFO     
+
+2020-08-31 18:18:05,581 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:18:05,581 INFO     Loading dataset from : 
+2020-08-31 18:18:05,581 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:18:05,581 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:18:37,156 INFO     
+
+2020-08-31 18:18:37,156 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:18:37,156 INFO     Loading dataset from : 
+2020-08-31 18:18:37,156 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:18:37,156 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:18:56,607 INFO     
+
+2020-08-31 18:18:56,608 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:18:56,608 INFO     Loading dataset from : 
+2020-08-31 18:18:56,608 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:18:56,608 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:20:03,702 INFO     
+
+2020-08-31 18:20:03,702 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:20:03,702 INFO     Loading dataset from : 
+2020-08-31 18:20:03,702 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:20:03,702 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:20:25,917 INFO     
+
+2020-08-31 18:20:25,917 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:20:25,917 INFO     Loading dataset from : 
+2020-08-31 18:20:25,917 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:20:25,917 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:20:46,977 INFO     
+
+2020-08-31 18:20:46,977 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:20:46,977 INFO     Loading dataset from : 
+2020-08-31 18:20:46,977 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:20:46,977 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:22:20,904 INFO     
+
+2020-08-31 18:22:20,905 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:22:20,905 INFO     Loading dataset from : 
+2020-08-31 18:22:20,905 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:22:20,905 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:26:00,187 INFO     
+
+2020-08-31 18:26:00,187 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:26:00,187 INFO     Loading dataset from : 
+2020-08-31 18:26:00,187 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:26:00,187 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:26:40,447 INFO     
+
+2020-08-31 18:26:40,447 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:26:40,447 INFO     Loading dataset from : 
+2020-08-31 18:26:40,448 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:26:40,448 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:29:52,045 INFO     
+
+2020-08-31 18:29:52,045 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:29:52,045 INFO     Loading dataset from : 
+2020-08-31 18:29:52,045 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:29:52,045 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:30:12,403 INFO     
+
+2020-08-31 18:30:12,403 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:30:12,403 INFO     Loading dataset from : 
+2020-08-31 18:30:12,403 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:30:12,404 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:34:48,215 INFO     
+
+2020-08-31 18:34:48,215 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:34:48,215 INFO     Loading dataset from : 
+2020-08-31 18:34:48,215 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:34:48,215 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:35:28,457 INFO     
+
+2020-08-31 18:35:28,457 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:35:28,458 INFO     Loading dataset from : 
+2020-08-31 18:35:28,458 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:35:28,458 WARNING  sample index = 0   node_a = 0   node = 1 
+2020-08-31 18:36:58,957 INFO     
+
+2020-08-31 18:36:58,957 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:36:58,957 INFO     Loading dataset from : 
+2020-08-31 18:36:58,957 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:36:58,957 WARNING  sample index = 0   node_a = 0   node = 0 
+2020-08-31 18:38:29,829 INFO     
+
+2020-08-31 18:38:29,829 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:38:29,829 INFO     Loading dataset from : 
+2020-08-31 18:38:29,829 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:38:29,829 WARNING  sample index = 0   node_a = 0   node = 0 
+2020-08-31 18:38:29,931 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:38:29,931 WARNING  expected=5, actual=0
+2020-08-31 18:38:29,931 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:40:00,260 INFO     
+
+2020-08-31 18:40:00,260 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:40:00,260 INFO     Loading dataset from : 
+2020-08-31 18:40:00,260 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:40:00,260 WARNING  sample index = 0   node_a = 0   node = 0 
+2020-08-31 18:40:00,359 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:40:00,359 WARNING  expected=5, actual=0
+2020-08-31 18:40:00,359 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:40:49,615 INFO     
+
+2020-08-31 18:40:49,615 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:40:49,616 INFO     Loading dataset from : 
+2020-08-31 18:40:49,616 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:40:49,616 WARNING  sample index = 0   node_a = 0   node = 0 
+2020-08-31 18:40:50,281 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:40:50,282 WARNING  expected=5, actual=0
+2020-08-31 18:40:50,282 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:40:50,928 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 18:40:50,929 WARNING  expected=113, actual=113
+2020-08-31 18:40:50,929 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 18:40:51,572 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:40:51,573 WARNING  expected=918, actual=76
+2020-08-31 18:40:51,573 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 18:40:51,573 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 18:40:51,573 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 18:42:41,046 INFO     
+
+2020-08-31 18:42:41,046 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:42:41,047 INFO     Loading dataset from : 
+2020-08-31 18:42:41,047 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:42:41,047 WARNING  sample index = 0   node_a = 0   node = 0 
+2020-08-31 18:42:41,707 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:42:41,707 WARNING  expected=5, actual=0
+2020-08-31 18:42:41,707 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:42:42,376 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 18:42:42,376 WARNING  expected=113, actual=113
+2020-08-31 18:42:42,376 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 18:42:43,042 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:42:43,042 WARNING  expected=918, actual=76
+2020-08-31 18:42:43,042 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 18:42:43,042 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 18:42:43,043 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 18:44:17,264 INFO     
+
+2020-08-31 18:44:17,264 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:44:17,264 INFO     Loading dataset from : 
+2020-08-31 18:44:17,264 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:44:17,264 WARNING  sample index = 0   node_a = 0   node = 0 
+2020-08-31 18:44:17,927 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:44:17,928 WARNING  expected=5, actual=0
+2020-08-31 18:44:17,928 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:44:18,569 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 18:44:18,569 WARNING  expected=113, actual=113
+2020-08-31 18:44:18,569 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 18:44:19,210 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:44:19,210 WARNING  expected=918, actual=76
+2020-08-31 18:44:19,210 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 18:44:19,211 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 18:44:19,211 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 18:45:23,463 INFO     
+
+2020-08-31 18:45:23,463 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:45:23,464 INFO     Loading dataset from : 
+2020-08-31 18:45:23,464 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:45:23,464 WARNING  sample index = 0   node_a = 0   node = 0 
+2020-08-31 18:45:24,130 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:45:24,130 WARNING  expected=5, actual=0
+2020-08-31 18:45:24,130 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:45:24,774 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 18:45:24,774 WARNING  expected=113, actual=113
+2020-08-31 18:45:24,774 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 18:45:25,416 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:45:25,416 WARNING  expected=918, actual=76
+2020-08-31 18:45:25,416 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 18:45:25,416 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 18:45:25,416 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 18:55:03,000 INFO     
+
+2020-08-31 18:55:03,000 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:55:03,000 INFO     Loading dataset from : 
+2020-08-31 18:55:03,000 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:55:03,000 WARNING  sample index = 0   node_a = 0   node = 3 
+2020-08-31 18:55:03,665 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:55:03,665 WARNING  expected=5, actual=0
+2020-08-31 18:55:03,665 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:55:04,315 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 18:55:04,315 WARNING  expected=113, actual=113
+2020-08-31 18:55:04,315 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 18:55:04,959 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:55:04,960 WARNING  expected=918, actual=76
+2020-08-31 18:55:04,960 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 18:55:04,960 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 18:55:04,960 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 18:56:26,136 INFO     
+
+2020-08-31 18:56:26,136 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 18:56:26,136 INFO     Loading dataset from : 
+2020-08-31 18:56:26,136 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 18:56:26,136 WARNING  sample index = 0   node_a = 0   node = 2 
+2020-08-31 18:56:26,804 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:56:26,804 WARNING  expected=5, actual=0
+2020-08-31 18:56:26,804 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 18:56:27,468 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 18:56:27,468 WARNING  expected=113, actual=113
+2020-08-31 18:56:27,468 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 18:56:28,124 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 18:56:28,124 WARNING  expected=918, actual=76
+2020-08-31 18:56:28,124 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 18:56:28,124 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 18:56:28,124 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 19:13:55,724 INFO     
+
+2020-08-31 19:13:55,724 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 19:13:55,724 INFO     Loading dataset from : 
+2020-08-31 19:13:55,724 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 19:13:55,724 WARNING  sample index = 0   node_a = 0   node = 2 
+2020-08-31 19:13:56,396 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 19:13:56,396 WARNING  expected=5, actual=0
+2020-08-31 19:13:56,396 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 19:13:57,066 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 19:13:57,066 WARNING  expected=113, actual=78
+2020-08-31 19:13:57,066 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 19:13:57,736 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 19:13:57,737 WARNING  expected=918, actual=76
+2020-08-31 19:13:57,737 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 19:13:57,737 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 19:13:57,737 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 19:14:22,788 INFO     
+
+2020-08-31 19:14:22,788 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 19:14:22,788 INFO     Loading dataset from : 
+2020-08-31 19:14:22,788 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 19:14:22,789 WARNING  sample index = 0   node_a = 0   node = 2 
+2020-08-31 19:14:23,496 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 19:14:23,496 WARNING  expected=5, actual=0
+2020-08-31 19:14:23,496 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 19:14:24,158 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 19:14:24,158 WARNING  expected=113, actual=113
+2020-08-31 19:14:24,158 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 19:14:24,908 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 19:14:24,908 WARNING  expected=918, actual=76
+2020-08-31 19:14:24,908 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 19:14:24,908 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 19:14:24,908 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 19:18:19,712 INFO     
+
+2020-08-31 19:18:19,712 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 19:18:19,712 INFO     Loading dataset from : 
+2020-08-31 19:18:19,714 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 19:18:19,714 WARNING  sample index = 0   node_a = 0   node = 2 
+2020-08-31 19:18:20,391 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 19:18:20,391 WARNING  expected=5, actual=0
+2020-08-31 19:18:20,392 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 19:18:21,059 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 19:18:21,060 WARNING  expected=113, actual=113
+2020-08-31 19:18:21,060 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 19:18:21,733 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 19:18:21,733 WARNING  expected=918, actual=76
+2020-08-31 19:18:21,733 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 19:18:21,733 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 19:18:21,733 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 19:20:07,410 INFO     
+
+2020-08-31 19:20:07,410 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 19:20:07,410 INFO     Loading dataset from : 
+2020-08-31 19:20:07,410 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 19:20:07,410 WARNING  sample index = 0   node_a = 0   node = 3 
+2020-08-31 19:20:08,097 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 19:20:08,097 WARNING  expected=5, actual=0
+2020-08-31 19:20:08,098 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 19:20:08,766 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 19:20:08,766 WARNING  expected=113, actual=113
+2020-08-31 19:20:08,766 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 19:20:09,434 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 19:20:09,434 WARNING  expected=918, actual=76
+2020-08-31 19:20:09,434 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 19:20:09,434 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 19:20:09,434 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 20:08:31,522 INFO     
+
+2020-08-31 20:08:31,522 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 20:08:31,522 INFO     Loading dataset from : 
+2020-08-31 20:08:31,522 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 20:08:31,522 WARNING  sample index = 0   node_a = 0   node = 3 
+2020-08-31 20:08:32,182 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:08:32,182 WARNING  expected=5, actual=0
+2020-08-31 20:08:32,182 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 20:08:32,829 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 20:08:32,829 WARNING  expected=113, actual=113
+2020-08-31 20:08:32,829 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 20:08:33,471 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:08:33,471 WARNING  expected=918, actual=76
+2020-08-31 20:08:33,472 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 20:08:33,472 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 20:08:33,472 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 20:10:27,103 INFO     
+
+2020-08-31 20:10:27,103 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 20:10:27,103 INFO     Loading dataset from : 
+2020-08-31 20:10:27,103 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 20:10:27,103 WARNING  sample index = 0   node_a = 0   node = 3 
+2020-08-31 20:10:27,777 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:10:27,777 WARNING  expected=5, actual=0
+2020-08-31 20:10:27,777 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 20:10:28,430 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 20:10:28,430 WARNING  expected=113, actual=113
+2020-08-31 20:10:28,430 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 20:10:29,086 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:10:29,086 WARNING  expected=918, actual=76
+2020-08-31 20:10:29,086 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 20:10:29,086 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 20:10:29,087 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 20:10:43,052 INFO     
+
+2020-08-31 20:10:43,053 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 20:10:43,053 INFO     Loading dataset from : 
+2020-08-31 20:10:43,053 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 20:10:43,053 WARNING  sample index = 0   node_a = 0   node = 3 
+2020-08-31 20:10:43,724 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:10:43,724 WARNING  expected=5, actual=0
+2020-08-31 20:10:43,724 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 20:10:44,367 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 20:10:44,367 WARNING  expected=113, actual=113
+2020-08-31 20:10:44,367 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 20:10:45,011 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:10:45,011 WARNING  expected=918, actual=76
+2020-08-31 20:10:45,012 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 20:10:45,012 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 20:10:45,012 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 20:11:43,962 INFO     
+
+2020-08-31 20:11:43,962 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 20:11:43,962 INFO     Loading dataset from : 
+2020-08-31 20:11:43,962 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 20:11:43,962 WARNING  sample index = 0   node_a = 0   node = 3 
+2020-08-31 20:11:44,617 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:11:44,617 WARNING  expected=5, actual=0
+2020-08-31 20:11:44,617 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 20:11:45,262 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 20:11:45,262 WARNING  expected=113, actual=113
+2020-08-31 20:11:45,262 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 20:11:45,910 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:11:45,910 WARNING  expected=918, actual=76
+2020-08-31 20:11:45,910 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 20:11:45,910 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 20:11:45,910 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 20:14:36,702 INFO     
+
+2020-08-31 20:14:36,702 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 20:14:36,702 INFO     Loading dataset from : 
+2020-08-31 20:14:36,702 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 20:14:36,702 WARNING  sample index = 0   node_a = 0   node = 3 
+2020-08-31 20:14:37,372 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:14:37,372 WARNING  expected=5, actual=0
+2020-08-31 20:14:37,372 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 20:14:38,026 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:14:38,026 WARNING  expected=113, actual=0
+2020-08-31 20:14:38,026 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 20:14:38,667 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:14:38,668 WARNING  expected=918, actual=76
+2020-08-31 20:14:38,668 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 20:14:38,668 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 20:14:38,668 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 20:16:54,176 INFO     
+
+2020-08-31 20:16:54,176 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 20:16:54,176 INFO     Loading dataset from : 
+2020-08-31 20:16:54,176 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 20:16:54,177 WARNING  sample index = 0   node_a = 0   node = 3 
+2020-08-31 20:16:54,843 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:16:54,843 WARNING  expected=5, actual=0
+2020-08-31 20:16:54,844 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 20:16:55,486 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 20:16:55,486 WARNING  expected=113, actual=113
+2020-08-31 20:16:55,486 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 20:16:56,139 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:16:56,139 WARNING  expected=918, actual=76
+2020-08-31 20:16:56,139 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 20:16:56,140 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 20:16:56,140 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 20:17:14,595 INFO     
+
+2020-08-31 20:17:14,595 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 20:17:14,595 INFO     Loading dataset from : 
+2020-08-31 20:17:14,595 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 20:17:14,595 WARNING  sample index = 0   node_a = 0   node = 3 
+2020-08-31 20:17:15,265 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:17:15,265 WARNING  expected=5, actual=0
+2020-08-31 20:17:15,265 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 20:17:15,916 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:17:15,916 WARNING  expected=113, actual=0
+2020-08-31 20:17:15,916 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 20:17:16,563 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:17:16,563 WARNING  expected=918, actual=76
+2020-08-31 20:17:16,563 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 20:17:16,563 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 20:17:16,563 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 20:20:09,317 INFO     
+
+2020-08-31 20:20:09,318 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 20:20:09,318 INFO     Loading dataset from : 
+2020-08-31 20:20:09,318 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 20:20:09,318 WARNING  sample index = 0   node_a = 0   node = 3 
+2020-08-31 20:20:09,994 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:20:09,994 WARNING  expected=5, actual=0
+2020-08-31 20:20:09,995 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 20:20:10,650 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:20:10,650 WARNING  expected=113, actual=0
+2020-08-31 20:20:10,650 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 20:20:11,304 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:20:11,304 WARNING  expected=918, actual=76
+2020-08-31 20:20:11,305 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 20:20:11,305 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 20:20:11,305 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-08-31 20:23:20,919 INFO     
+
+2020-08-31 20:23:20,919 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-08-31 20:23:20,920 INFO     Loading dataset from : 
+2020-08-31 20:23:20,920 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-08-31 20:23:20,920 WARNING  sample index = 0   node_a = 0   node = 3 
+2020-08-31 20:23:21,586 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:23:21,586 WARNING  expected=5, actual=0
+2020-08-31 20:23:21,586 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-08-31 20:23:22,244 INFO     expected={expected_label}, actual={actual_label
+2020-08-31 20:23:22,244 WARNING  expected=113, actual=113
+2020-08-31 20:23:22,244 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-08-31 20:23:22,892 WARNING  expected={expected_label}, actual={actual_label
+2020-08-31 20:23:22,892 WARNING  expected=918, actual=76
+2020-08-31 20:23:22,892 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-08-31 20:23:22,892 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-08-31 20:23:22,892 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:06:55,233 INFO     
+
+2020-09-01 12:06:55,263 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:06:55,264 INFO     Loading dataset from : 
+2020-09-01 12:06:55,264 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:06:55,264 WARNING  sample index = 0   node_a = 0   node = 3 
+2020-09-01 12:06:56,034 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:06:56,034 WARNING  expected=5, actual=0
+2020-09-01 12:06:56,034 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:06:56,675 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 12:06:56,675 WARNING  expected=113, actual=113
+2020-09-01 12:06:56,675 WARNING  sample index = 2   node_a = 76   node = 76 
+2020-09-01 12:06:57,307 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:06:57,307 WARNING  expected=918, actual=76
+2020-09-01 12:06:57,307 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:06:57,307 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:06:57,308 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:08:24,185 INFO     
+
+2020-09-01 12:08:24,185 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:08:24,185 INFO     Loading dataset from : 
+2020-09-01 12:08:24,185 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:08:24,185 WARNING  sample index = 0   node_a = 4   node = 5 
+2020-09-01 12:08:24,845 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:08:24,845 WARNING  expected=5, actual=0
+2020-09-01 12:08:24,845 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:08:25,477 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 12:08:25,477 WARNING  expected=113, actual=113
+2020-09-01 12:08:25,477 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:08:26,119 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:08:26,119 WARNING  expected=918, actual=0
+2020-09-01 12:08:26,119 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:08:26,119 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:08:26,119 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:09:28,178 INFO     
+
+2020-09-01 12:09:28,179 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:09:28,179 INFO     Loading dataset from : 
+2020-09-01 12:09:28,179 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:09:28,179 WARNING  sample index = 0   node_a = 4   node = 5 
+2020-09-01 12:09:28,832 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:09:28,833 WARNING  expected=5, actual=0
+2020-09-01 12:09:28,833 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:09:29,473 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 12:09:29,473 WARNING  expected=113, actual=113
+2020-09-01 12:09:29,473 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:09:30,111 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:09:30,111 WARNING  expected=918, actual=0
+2020-09-01 12:09:30,111 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:09:30,111 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:09:30,111 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:09:53,965 INFO     
+
+2020-09-01 12:09:53,965 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:09:53,965 INFO     Loading dataset from : 
+2020-09-01 12:09:53,966 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:09:53,966 WARNING  sample index = 0   node_a = 4   node = 5 
+2020-09-01 12:09:54,617 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:09:54,618 WARNING  expected=5, actual=0
+2020-09-01 12:09:54,618 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:09:55,251 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:09:55,251 WARNING  expected=113, actual=0
+2020-09-01 12:09:55,251 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:09:55,885 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:09:55,885 WARNING  expected=918, actual=0
+2020-09-01 12:09:55,885 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:09:55,885 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:09:55,885 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:10:16,147 INFO     
+
+2020-09-01 12:10:16,147 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:10:16,147 INFO     Loading dataset from : 
+2020-09-01 12:10:16,147 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:10:16,147 WARNING  sample index = 0   node_a = 4   node = 5 
+2020-09-01 12:10:16,798 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:10:16,799 WARNING  expected=5, actual=0
+2020-09-01 12:10:16,799 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:10:17,434 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:10:17,434 WARNING  expected=113, actual=0
+2020-09-01 12:10:17,434 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:10:18,065 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:10:18,066 WARNING  expected=918, actual=0
+2020-09-01 12:10:18,066 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:10:18,066 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:10:18,066 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:11:40,863 INFO     
+
+2020-09-01 12:11:40,863 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:11:40,863 INFO     Loading dataset from : 
+2020-09-01 12:11:40,863 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:11:40,864 WARNING  sample index = 0   node_a = 4   node = 5 
+2020-09-01 12:11:41,519 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:11:41,519 WARNING  expected=5, actual=0
+2020-09-01 12:11:41,519 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:11:42,165 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 12:11:42,165 WARNING  expected=113, actual=113
+2020-09-01 12:11:42,165 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:11:42,807 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:11:42,807 WARNING  expected=918, actual=0
+2020-09-01 12:11:42,807 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:11:42,807 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:11:42,808 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:11:49,959 INFO     
+
+2020-09-01 12:11:49,960 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:11:49,960 INFO     Loading dataset from : 
+2020-09-01 12:11:49,960 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:11:49,960 WARNING  sample index = 0   node_a = 4   node = 5 
+2020-09-01 12:11:50,610 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:11:50,610 WARNING  expected=5, actual=0
+2020-09-01 12:11:50,610 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:12:17,967 INFO     
+
+2020-09-01 12:12:17,967 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:12:17,967 INFO     Loading dataset from : 
+2020-09-01 12:12:17,967 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:12:17,967 WARNING  sample index = 0   node_a = 4   node = 5 
+2020-09-01 12:12:18,625 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:12:18,625 WARNING  expected=5, actual=0
+2020-09-01 12:12:18,625 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:12:19,264 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 12:12:19,264 WARNING  expected=113, actual=113
+2020-09-01 12:12:19,264 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:12:19,902 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:12:19,902 WARNING  expected=918, actual=0
+2020-09-01 12:12:19,903 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:12:19,903 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:12:19,903 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:23:21,813 INFO     
+
+2020-09-01 12:23:21,813 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:23:21,813 INFO     Loading dataset from : 
+2020-09-01 12:23:21,814 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:23:21,814 WARNING  sample index = 0   node_a = 4   node = 5 
+2020-09-01 12:23:22,465 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:23:22,466 WARNING  expected=5, actual=0
+2020-09-01 12:23:22,466 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:23:23,108 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 12:23:23,108 WARNING  expected=113, actual=113
+2020-09-01 12:23:23,108 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:23:23,745 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:23:23,746 WARNING  expected=918, actual=0
+2020-09-01 12:23:23,746 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:23:23,746 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:23:23,746 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:28:07,562 INFO     
+
+2020-09-01 12:28:07,562 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:28:07,563 INFO     Loading dataset from : 
+2020-09-01 12:28:07,563 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:28:07,563 WARNING  sample index = 0   node_a = 4   node = 5 
+2020-09-01 12:28:08,213 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:28:08,214 WARNING  expected=5, actual=0
+2020-09-01 12:28:08,214 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:28:08,851 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 12:28:08,851 WARNING  expected=113, actual=113
+2020-09-01 12:28:08,851 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:28:09,488 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:28:09,488 WARNING  expected=918, actual=0
+2020-09-01 12:28:09,488 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:28:09,488 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:28:09,488 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:28:35,306 INFO     
+
+2020-09-01 12:28:35,306 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:28:35,306 INFO     Loading dataset from : 
+2020-09-01 12:28:35,306 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:28:35,306 WARNING  sample index = 0   node_a = 4   node = 5 
+2020-09-01 12:28:35,961 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:28:35,961 WARNING  expected=5, actual=0
+2020-09-01 12:28:35,961 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:28:36,597 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 12:28:36,597 WARNING  expected=113, actual=113
+2020-09-01 12:28:36,597 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:28:37,231 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:28:37,231 WARNING  expected=918, actual=0
+2020-09-01 12:28:37,231 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:28:37,231 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:28:37,231 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:29:02,176 INFO     
+
+2020-09-01 12:29:02,176 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:29:02,176 INFO     Loading dataset from : 
+2020-09-01 12:29:02,176 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:29:02,176 WARNING  sample index = 0   node_a = 4   node = 5 
+2020-09-01 12:29:02,832 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:29:02,832 WARNING  expected=5, actual=0
+2020-09-01 12:29:02,833 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:29:03,468 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 12:29:03,468 WARNING  expected=113, actual=113
+2020-09-01 12:29:03,468 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:29:04,108 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:29:04,108 WARNING  expected=918, actual=0
+2020-09-01 12:29:04,108 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:29:04,108 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:29:04,108 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:35:01,366 INFO     
+
+2020-09-01 12:35:01,366 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:35:01,366 INFO     Loading dataset from : 
+2020-09-01 12:35:01,366 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:35:01,366 WARNING  sample index = 0   node_a = 4   node = 5 
+2020-09-01 12:35:02,052 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:35:02,052 WARNING  expected=5, actual=0
+2020-09-01 12:35:02,053 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:35:39,320 INFO     
+
+2020-09-01 12:35:39,320 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:35:39,320 INFO     Loading dataset from : 
+2020-09-01 12:35:39,321 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:35:39,321 WARNING  sample index = 0   node_a = 4   node = 5 
+2020-09-01 12:35:40,005 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:35:40,005 WARNING  expected=5, actual=0
+2020-09-01 12:35:40,005 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:35:40,672 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 12:35:40,672 WARNING  expected=113, actual=113
+2020-09-01 12:35:40,672 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:35:41,335 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:35:41,335 WARNING  expected=918, actual=0
+2020-09-01 12:35:41,335 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:35:41,335 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:35:41,335 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:36:39,771 INFO     
+
+2020-09-01 12:36:39,771 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:36:39,771 INFO     Loading dataset from : 
+2020-09-01 12:36:39,771 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:36:39,771 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 12:36:40,464 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:36:40,464 WARNING  expected=5, actual=0
+2020-09-01 12:36:40,464 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:36:41,126 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 12:36:41,126 WARNING  expected=113, actual=113
+2020-09-01 12:36:41,126 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:36:41,788 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:36:41,788 WARNING  expected=918, actual=0
+2020-09-01 12:36:41,788 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:36:41,788 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:36:41,788 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:37:37,442 INFO     
+
+2020-09-01 12:37:37,442 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:37:37,442 INFO     Loading dataset from : 
+2020-09-01 12:37:37,443 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:37:37,443 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 12:37:38,128 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:37:38,128 WARNING  expected=5, actual=0
+2020-09-01 12:37:38,128 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:37:38,803 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:37:38,803 WARNING  expected=113, actual=78
+2020-09-01 12:37:38,803 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:37:39,463 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:37:39,463 WARNING  expected=918, actual=0
+2020-09-01 12:37:39,463 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:37:39,464 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:37:39,464 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:40:25,834 INFO     
+
+2020-09-01 12:40:25,834 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:40:25,835 INFO     Loading dataset from : 
+2020-09-01 12:40:25,835 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:40:25,835 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 12:40:26,535 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:40:26,535 WARNING  expected=5, actual=0
+2020-09-01 12:40:26,536 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:40:27,216 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:40:27,216 WARNING  expected=113, actual=78
+2020-09-01 12:40:27,216 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:40:27,893 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:40:27,894 WARNING  expected=918, actual=0
+2020-09-01 12:40:27,894 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:40:27,894 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:40:27,894 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:40:46,323 INFO     
+
+2020-09-01 12:40:46,323 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:40:46,324 INFO     Loading dataset from : 
+2020-09-01 12:40:46,324 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:40:46,324 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 12:40:47,002 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:40:47,003 WARNING  expected=5, actual=0
+2020-09-01 12:40:47,003 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:40:47,685 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 12:40:47,685 WARNING  expected=113, actual=113
+2020-09-01 12:40:47,685 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:40:48,346 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:40:48,347 WARNING  expected=918, actual=0
+2020-09-01 12:40:48,347 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:40:48,347 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:40:48,347 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:42:13,100 INFO     
+
+2020-09-01 12:42:13,101 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:42:13,101 INFO     Loading dataset from : 
+2020-09-01 12:42:13,101 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:42:13,101 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 12:42:13,787 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:42:13,787 WARNING  expected=5, actual=0
+2020-09-01 12:42:13,787 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:42:14,454 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:42:14,454 WARNING  expected=113, actual=1
+2020-09-01 12:42:14,454 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:42:15,118 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:42:15,118 WARNING  expected=918, actual=6
+2020-09-01 12:42:15,118 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:42:15,118 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:42:15,118 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:43:05,032 INFO     
+
+2020-09-01 12:43:05,032 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:43:05,032 INFO     Loading dataset from : 
+2020-09-01 12:43:05,032 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:43:05,032 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 12:43:05,714 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:43:05,714 WARNING  expected=5, actual=0
+2020-09-01 12:43:05,714 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:43:06,378 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:43:06,378 WARNING  expected=113, actual=1
+2020-09-01 12:43:06,378 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:43:07,045 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:43:07,046 WARNING  expected=918, actual=6
+2020-09-01 12:43:07,046 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:43:07,046 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:43:07,046 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:43:48,075 INFO     
+
+2020-09-01 12:43:48,075 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:43:48,075 INFO     Loading dataset from : 
+2020-09-01 12:43:48,075 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:43:48,075 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 12:43:48,763 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:43:48,763 WARNING  expected=5, actual=0
+2020-09-01 12:43:48,763 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:43:49,432 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:43:49,432 WARNING  expected=113, actual=1
+2020-09-01 12:43:49,432 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:43:50,096 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:43:50,096 WARNING  expected=918, actual=6
+2020-09-01 12:43:50,096 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:43:50,096 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:43:50,096 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:55:32,009 INFO     
+
+2020-09-01 12:55:32,009 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:55:32,009 INFO     Loading dataset from : 
+2020-09-01 12:55:32,009 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:55:32,009 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 12:55:32,784 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:55:32,784 WARNING  expected=5, actual=0
+2020-09-01 12:55:32,784 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:55:33,807 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:55:33,807 WARNING  expected=113, actual=1
+2020-09-01 12:55:33,807 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:55:34,586 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:55:34,586 WARNING  expected=918, actual=6
+2020-09-01 12:55:34,586 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:55:34,587 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:55:34,587 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:57:15,986 INFO     
+
+2020-09-01 12:57:15,986 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:57:15,986 INFO     Loading dataset from : 
+2020-09-01 12:57:15,986 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:57:15,987 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 12:57:16,656 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:57:16,656 WARNING  expected=5, actual=0
+2020-09-01 12:57:16,656 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 12:57:17,307 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:57:17,307 WARNING  expected=113, actual=1
+2020-09-01 12:57:17,307 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 12:57:17,964 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 12:57:17,964 WARNING  expected=918, actual=6
+2020-09-01 12:57:17,964 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 12:57:17,964 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 12:57:17,964 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 12:58:46,732 INFO     
+
+2020-09-01 12:58:46,732 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 12:58:46,732 INFO     Loading dataset from : 
+2020-09-01 12:58:46,732 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 12:58:46,732 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 13:00:38,798 INFO     
+
+2020-09-01 13:00:38,798 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 13:00:38,799 INFO     Loading dataset from : 
+2020-09-01 13:00:38,799 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 13:00:38,799 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 13:01:32,023 INFO     
+
+2020-09-01 13:01:32,023 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 13:01:32,024 INFO     Loading dataset from : 
+2020-09-01 13:01:32,024 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 13:01:32,024 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 13:01:53,102 INFO     
+
+2020-09-01 13:01:53,102 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 13:01:53,102 INFO     Loading dataset from : 
+2020-09-01 13:01:53,102 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 13:01:53,102 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 13:04:46,935 INFO     
+
+2020-09-01 13:04:46,935 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 13:04:46,935 INFO     Loading dataset from : 
+2020-09-01 13:04:46,935 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 13:04:46,936 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 13:07:19,837 INFO     
+
+2020-09-01 13:07:19,837 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 13:07:19,837 INFO     Loading dataset from : 
+2020-09-01 13:07:19,837 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 13:07:19,837 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 13:07:20,515 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 13:07:20,515 WARNING  expected=5, actual=7
+2020-09-01 13:07:20,516 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 13:07:21,175 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 13:07:21,175 WARNING  expected=113, actual=113
+2020-09-01 13:07:21,175 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 13:07:21,840 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 13:07:21,840 WARNING  expected=918, actual=0
+2020-09-01 13:07:21,840 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 13:07:21,840 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 13:07:21,840 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 13:08:07,466 INFO     
+
+2020-09-01 13:08:07,466 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 13:08:07,466 INFO     Loading dataset from : 
+2020-09-01 13:08:07,466 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 13:08:07,466 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 13:08:08,143 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 13:08:08,143 WARNING  expected=5, actual=7
+2020-09-01 13:08:08,143 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 13:08:08,817 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 13:08:08,817 WARNING  expected=113, actual=113
+2020-09-01 13:08:08,817 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 13:08:09,489 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 13:08:09,489 WARNING  expected=918, actual=0
+2020-09-01 13:08:09,489 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 13:08:09,489 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 13:08:09,490 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 13:09:04,330 INFO     
+
+2020-09-01 13:09:04,331 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 13:09:04,331 INFO     Loading dataset from : 
+2020-09-01 13:09:04,331 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 13:09:04,331 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 13:09:05,004 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 13:09:05,004 WARNING  expected=5, actual=7
+2020-09-01 13:09:05,004 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 13:09:05,668 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 13:09:05,669 WARNING  expected=113, actual=113
+2020-09-01 13:09:05,669 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 13:09:06,327 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 13:09:06,327 WARNING  expected=918, actual=0
+2020-09-01 13:09:06,327 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 13:09:06,328 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 13:09:06,328 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 13:10:16,517 INFO     
+
+2020-09-01 13:10:16,517 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 13:10:16,517 INFO     Loading dataset from : 
+2020-09-01 13:10:16,517 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 13:10:16,517 WARNING  sample index = 0   node_a = 10   node = 20 
+2020-09-01 13:10:17,193 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 13:10:17,193 WARNING  expected=5, actual=7
+2020-09-01 13:10:17,194 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 13:10:17,845 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 13:10:17,846 WARNING  expected=113, actual=113
+2020-09-01 13:10:17,846 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 13:10:18,533 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 13:10:18,534 WARNING  expected=918, actual=0
+2020-09-01 13:10:18,534 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 13:10:18,534 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 13:10:18,534 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2020-09-01 13:10:46,951 INFO     
+
+2020-09-01 13:10:46,951 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2020-09-01 13:10:46,951 INFO     Loading dataset from : 
+2020-09-01 13:10:46,951 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2020-09-01 13:10:46,951 WARNING  sample index = 0   node_a = 100   node = 200 
+2020-09-01 13:10:47,627 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 13:10:47,627 WARNING  expected=5, actual=0
+2020-09-01 13:10:47,627 WARNING  sample index = 1   node_a = 128   node = 130 
+2020-09-01 13:10:48,282 INFO     expected={expected_label}, actual={actual_label
+2020-09-01 13:10:48,282 WARNING  expected=113, actual=113
+2020-09-01 13:10:48,282 WARNING  sample index = 2   node_a = 86   node = 76 
+2020-09-01 13:10:48,939 WARNING  expected={expected_label}, actual={actual_label
+2020-09-01 13:10:48,940 WARNING  expected=918, actual=0
+2020-09-01 13:10:48,940 INFO     ==== ==== Please do not delete this file or it's contents.
+2020-09-01 13:10:48,940 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2020-09-01 13:10:48,940 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
+2021-06-22 15:55:26,279 INFO     
+
+2021-06-22 15:55:26,279 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2021-06-22 15:55:26,279 INFO     Loading dataset from : 
+2021-06-22 15:55:26,279 WARNING  /home/anilkumar/Desktop/CactusLabsPythonTest/data.txt
+2021-06-22 15:55:26,279 WARNING  sample index = 0   node_a = 100   node = 200 
+2021-06-22 15:56:47,220 INFO     
+
+2021-06-22 15:56:47,220 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2021-06-22 15:56:47,220 INFO     Loading dataset from : 
+2021-06-22 15:56:47,221 WARNING  /home/anilkumar/Desktop/TechQwarePythonTest/data.txt
+2021-06-22 15:56:47,221 WARNING  sample index = 0   node_a = 100   node = 200 
+2021-06-22 15:57:17,503 INFO     
+
+2021-06-22 15:57:17,503 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2021-06-22 15:57:17,503 INFO     Loading dataset from : 
+2021-06-22 15:57:17,503 WARNING  /home/anilkumar/Desktop/TechQwarePythonTest/data.txt
+2021-06-22 15:57:17,503 WARNING  sample index = 0   node_a = 100   node = 200 
+2021-06-22 15:59:25,353 INFO     
+
+2021-06-22 15:59:25,353 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2021-06-22 15:59:25,353 INFO     Loading dataset from : 
+2021-06-22 15:59:25,353 WARNING  /home/anilkumar/Desktop/TechQWareLabsPythonTest_Ans/data.txt
+2021-06-22 15:59:25,353 WARNING  sample index = 0   node_a = 100   node = 200 
+2021-06-22 16:01:51,102 INFO     
+
+2021-06-22 16:01:51,102 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2021-06-22 16:01:51,102 INFO     Loading dataset from : 
+2021-06-22 16:01:51,102 WARNING  ('/home/anilkumar/Desktop/TechQWareLabsPythonTest_Ans', 'data.txt')
+2021-06-22 16:01:51,102 WARNING  sample index = 0   node_a = 100   node = 200 
+2021-06-22 16:03:09,378 INFO     
+
+2021-06-22 16:03:09,379 INFO     ==== ==== ==== ==== Starting New Run ==== ==== ==== ==== 
+2021-06-22 16:03:09,379 INFO     Loading dataset from : 
+2021-06-22 16:03:09,379 WARNING  /home/anilkumar/Desktop/TechQWareLabsPythonTest_Ans/data.txt
+2021-06-22 16:03:09,379 WARNING  sample index = 0   node_a = 100   node = 200 
+2021-06-22 16:03:10,060 WARNING  expected={expected_label}, actual={actual_label
+2021-06-22 16:03:10,060 WARNING  expected=5, actual=0
+2021-06-22 16:03:10,060 WARNING  sample index = 1   node_a = 128   node = 130 
+2021-06-22 16:03:10,731 INFO     expected={expected_label}, actual={actual_label
+2021-06-22 16:03:10,731 WARNING  expected=113, actual=113
+2021-06-22 16:03:10,731 WARNING  sample index = 2   node_a = 86   node = 76 
+2021-06-22 16:03:11,414 WARNING  expected={expected_label}, actual={actual_label
+2021-06-22 16:03:11,414 WARNING  expected=918, actual=0
+2021-06-22 16:03:11,414 INFO     ==== ==== Please do not delete this file or it's contents.
+2021-06-22 16:03:11,414 INFO     ==== ==== It's ok to keep the results of your multiple runs. In such cases we will consider the last run.
+2021-06-22 16:03:11,414 INFO     ==== ==== ==== ==== Run Complete ==== ==== ==== ==== 
